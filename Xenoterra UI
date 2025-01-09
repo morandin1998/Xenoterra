@@ -1,0 +1,108 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 60,
+      "iconurl": "https://i.ibb.co/G2DvBdT/Logo.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Starter Pack",
+        "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
+        "content": [
+          {
+            "title": "Welcome in XenoTerra!",
+            "text": "To get Starter Pack hold Square or R, then open Shop, choose the Hatchet icon and purchase it. \n\nHope you can enjoy the server! For any question ask here in game or in a ticket in our discord and Rudo, Jenny or Paky will help you as soon as they can! Have a nice journey! \n\n(Dragons and Wyverns from Draconic Chronicles spawn only on Astraeos map)"
+          },
+          {
+            "title": "Benvenuti in XenoTerra!",
+            "text": "Per ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \n\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord, Rudo, Jenny o Paki vi aiuteranno il prima possibile! Buona avventura! \n\n(I draghi e le viverne della mod Draconic Chronicles spawnano solo nella mappa Astraeos)"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Info Server ENG",
+        "imageurl": "https://i.ibb.co/g3rm6T5/Locandina-eng.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          },
+          {
+            "title": "JSON settings:",
+            "text": "OpenButton - 0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5-Delete, 6=Home - Determines the button the player needs to press to open the UI.\n\nHideIcon true/false, default: false - If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter integer, default: 60 - Determines after how many seconds the Icon vanishes.\n\nIconURL - \"URL\", default: \"https://i.imgur.com/OZ6x0jY.png\" - You can upload a custom image somewhere (e.g. imgur) and it will be used as the Icon in the bottom left.\n\nDisableIconText - true/false, default: false - If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition - 0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2-Bottom Right, 3-Bottom Left Set the position of the Icon.\n\nIconTextColor - 0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4-Yellow, 5=Orange, 6=Violet, 7=Black, 8=White - Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart - true/false, default: true - If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers - true/false, default: true - If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval - integer, default: 12 - Determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nFor the rest of the settings check out the Wiki or example JSON."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Info Server ITA",
+        "imageurl": "https://i.ibb.co/VvnKrCN/Locandina.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Info Shop",
+        "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
+        "content": [
+          {
+            "title": "Info Shop ENG",
+            "text": "There are two types of Shops on the server: \n\n-IN-GAME SHOP, accessible from the radial menu. It will function with points automatically assigned by the game every half hour. This shop will spawn dinos directly in-game at level 225 or 190 (wyverns and rock drakes) with random stats. \n(!!Aquatic dinos must be spawned in the water!!) \n\n-ADMIN SHOP: Check the \"Donations\" channel. For every €1 donated to the server, 100 Strawberries will be credited in-game, which can be exchanged for dinos in the shop on Discord, \"Shop-dino-e-oggetti\". The creatures will spawn at level 240 with one stat of your choice at a minimum of 50 points (wyverns and rock drakes at level 210, with a stat of 42). \n\nIf you only see 50 packs in the In-Game Shop, die and respawn (there should be more than 150)"
+          },
+          {
+            "title": "Info Shop ITA",
+            "text": "Nel server sono presenti due tipologie di Shop: \n\n-SHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti che verranno assegnati automaticamente dal gioco ogni mezz'ora. Questo shop spawnerà direttamente in gioco dino a livello 225 o 190 (viverne e rock drake) con statistiche casuali. \n(I dino acquatici vanno spawnati in acqua!!) \n\n-SHOP ADMIN: Vedere canale \"Donazioni\", per ogni € donato al server verranno assegnate 100 Fragole in gioco, le quali possono essere scambiate con i dino dello shop presente su discord \"Shop-dino-e-oggetti\". Le creature verranno spawnate al livello 240 con una statistica a scelta di almeno 50 punti (viverne e draghi di roccia al livello 210, statistica 42). \n\nSe vedete solo 50 pacchetti nello Shop In-Game morite e respawnate (dovrebbero essere più di 150)"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Events",
+        "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
+        "content": [
+          {
+            "title": "Advent Calendars Xenoterra",
+            "text": "From December 1st to 24th, every day, players who participate will find a vault with their in-game name in the designated structures on each of the 4 Ark maps! You will be given a PIN to access the vault, where a surprise dino awaits you! \n\nThe maps involved: \nThe Island   Scorched Earth   The Center   Aberration \n\nTypes of Advent Calendars Available: \n\n- Base (Cost: 1,500 Strawberries) \n24 Dinos (any Tier Shop) at level 201. \n\n- Premium (Cost: 3.000 Strawberries) \n24 Dinos (any Tier Shop) at level 240 with 40+ points in 3 stats. \n\nWe also have a Shiny Calendar: \n\n- Shiny (Cost 4.000 Strawberries) \n24 Shiny Dinos at level 240 with exclusive bonuses! \n\n(Of course, the values of the dinos you will receive by participating is far greater than the cost of buying them individually in the shop!) \n\nHow to participate? \n\nOpen a ticket and let us know: \n1️ Which calendar you choose. \n2️ Your desidered (Base or Premium). \nAn adminwill reply as soon as possible to confirm your registration. \n\nWe believe this is the perfect way to enjoy holiday together, while also looking forward to the arriavl of Extinction.By participating, you are also supporting the server. \n\nThank you so much for being part of the Xenoterra community Xenoterra! \nHappy Holidays and have fun, everyone!"
+          },
+          {
+            "title": "Calendari dell'Avvento Xenoterra",
+            "text": "Dal 1.12 al 24.12, ogni giorno, i player che parteciperanno troveranno una cassaforte con il proprio nome in game nelle strutture apposite su ognuna delle 4 mappe di Ark! Vi verrà fornito il PIN per accedere alla cassaforte, dove vi aspetta un dino a sorpresa! \n\nLe mappe coinvolte: \nThe Island   Scorched Earth   The Center   Aberration \n\nTipologie di Calendari Disponibili: \n\n- Base (Costo: 1.500 Fragole) \n24 Dino (qualsiasi Tier Shop) di livello 201. \n\n- Premium (Costo: 3.000 Fragole) \n24 Dino (qualsiasi Tier Shop) di livello 240 con 40+ punti in 3 statistiche. \n\nInoltre, abbiamo anche un Calendario Dino Shiny: \n\n- Shiny (Costo 4.000 Fragole) \n24 Dino Shiny di livello 240 con bonus esclusivi! \n\n(Ovviamente il valore dei dino che riceverete partecipando è di gran lunga più conveniente rispetto all'acquisto singolo nello shop!) \n\nCome partecipare? \n\nAprite un ticket e comunicate: \n1️ Il calendario scelto. \n2️ La variante desiderata (Base o Premium). \nUn admin vi risponderà il prima possibile per confermare la vostra iscrizione. \n\nPensiamo che questo sia un modo perfetto per vivere insieme il periodo natalizio, aspettando anche l’arrivo di Extinction. Inoltre, partecipando, date anche il vostro supporto al server. \n\nGrazie di cuore, ragazzi, per essere parte della community di Xenoterra! \nBuone Feste e buon divertimento a tutti!"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/w6D5fH6JYC"
+      },
+      {
+        "text": "Dododex",
+        "url": "https://www.dododex.com/"
+      },
+      {
+        "text": "Ark Wiki",
+        "url": "https://ark.wiki.gg/"
+      },
+      {
+        "text": "Shiny",
+        "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+      }
+    ],
+    "version": 2
+  }
+}
