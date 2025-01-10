@@ -54,7 +54,7 @@
           }
         ]
       },
-      https://i.ibb.co/L1TH9kH/Back.png{
+      {
         "layout": 2,
         "buttontext": "Info Shop",
         "imageurl": "https://i.ibb.co/L1TH9kH/Back.png",
@@ -81,6 +81,17 @@
           {
             "title": "Lotteria Xenoterra",
             "text": "Sul server XenoTerra di Ark abbiamo tirato fuori la lotteria più bella che possiate immaginare! \n90 numeri, tanti premi spettacolari e un 60% di possibilità di vincere, perché la fortuna non deve essere solo per pochi eletti. \n\nCosa c’è in palio? \nGiga Tek, perfetti per conquistare il server (o almeno farci un figurone). \nCreature OP da Extinction, perché una base senza stile non è una base. \nDino Shiny della nuova mappa, roba che vi farà brillare più della vostra armatura! \n\nCome partecipare? \nBiglietti a soli 2 euro: costa meno di un caffè, ma vi rende molto più felici. \nPotete acquistarli fino al 10 Febbaraio 2025. \nÈ facilissimo: contattate un admin aprendo un ticket e scegliete i vostri numeri!"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Online Players",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "",
+            "text": "{playerlist}"
           }
         ]
       }
