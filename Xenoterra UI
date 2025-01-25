@@ -9,7 +9,7 @@
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
-      "openonstartonlynewplayers": false,
+      "openonstartonlynewplayers": true,
       "updateinterval": 12
     },
     "tabs": [
