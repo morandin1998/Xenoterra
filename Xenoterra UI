@@ -20,11 +20,11 @@
         "content": [
           {
             "title": "Welcome in XenoTerra!",
-            "text": "To get Starter Pack hold Square or R, then open Shop, choose the Hatchet icon and purchase it. \n\nHope you can enjoy the server! For any question ask here in game or in a ticket in our discord and Rudo, Jenny or Paky will help you as soon as they can! Have a nice journey! \n\n(Dragons and Wyverns from Draconic Chronicles spawnvand can be used only on Astraeos and Forglar map)"
+            "text": "To get Starter Pack hold Square or R, then open Shop, choose the Hatchet icon and purchase it. \n\nHope you can enjoy the server! For any question ask here in game or in a ticket in our discord and Rudo, Jenny or Paky will help you as soon as they can! Have a nice journey! \n\n(Dragons and Wyverns from Draconic Chronicles spawn and can be used only on Astraeos and Forglar map, S-Dinos spawn olny on Svartalfheim but can be transfered to every map)"
           },
           {
             "title": "Benvenuti in XenoTerra!",
-            "text": "Per ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \n\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord, Rudo, Jenny o Paki vi aiuteranno il prima possibile! Buona avventura! \n\n(I draghi e le viverne della mod Draconic Chronicles spawnano e possono essere usati solo nella mappe Astraeos e Forglar)"
+            "text": "Per ottenere lo Starter Pack, tieni premuto Quadrato o R, poi apri il Negozio, scegli l'icona dell'Accetta e acquistalo. \n\nSperiamo il server vi piaccia, per qualsiasi domanda chiedete pure qui o aprite un ticket su discord, Rudo, Jenny o Paki vi aiuteranno il prima possibile! Buona avventura! \n\n(I draghi e le viverne della mod Draconic Chronicles spawnano e possono essere usati solo nella mappe Astraeos e Forglar, gli S-Dino spawnano solo su Svartalfheim ma possono essere traferiti su tutte le mappe)"
           }
         ]
       },
@@ -61,11 +61,11 @@
         "content": [
           {
             "title": "Info Shop ENG",
-            "text": "There are two types of Shops on the server: \n\n-IN-GAME SHOP, accessible from the radial menu. It will function with points automatically assigned by the game every half hour. This shop will spawn dinos directly in-game at level 225 or 190 (wyverns and rock drakes) with random stats. \n(!!Aquatic dinos must be spawned in the water!!) \n\n-ADMIN SHOP: Check the \"Donations\" channel. For every €1 donated to the server, 100 Strawberries will be credited in-game, which can be exchanged for dinos in the shop on Discord, \"Shop-dino-e-oggetti\". The creatures will spawn at level 240 with one stat of your choice at a minimum of 50 points (wyverns and rock drakes at level 210, with a stat of 42). \n\nIf you only see 50 packs in the In-Game Shop, die and respawn (there should be more than 150)"
+            "text": "There are two types of Shops on the server: \n\n-IN-GAME SHOP, accessible from the radial menu. It will function with points automatically assigned by the game every half hour. This shop will spawn dinos directly in-game at level 200 or 165 (wyverns and rock drakes) with random stats. \n(!!Aquatic dinos must be spawned in the water!!) \n\n-ADMIN SHOP: Check the \"Donations\" channel. For every €1 donated to the server, 100 Strawberries will be credited in-game, which can be exchanged for dinos in the shop on Discord, \"Shop-dino-e-oggetti\". The creatures will spawn at level 240 with one stat of your choice at a minimum of 50 points (wyverns and rock drakes at level 210, with a stat of 42). \n\nIf you only see 50 packs in the In-Game Shop, die and respawn (there should be more than 150)"
           },
           {
             "title": "Info Shop ITA",
-            "text": "Nel server sono presenti due tipologie di Shop: \n\n-SHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti che verranno assegnati automaticamente dal gioco ogni mezz'ora. Questo shop spawnerà direttamente in gioco dino a livello 225 o 190 (viverne e rock drake) con statistiche casuali. \n(I dino acquatici vanno spawnati in acqua!!) \n\n-SHOP ADMIN: Vedere canale \"Donazioni\", per ogni € donato al server verranno assegnate 100 Fragole in gioco, le quali possono essere scambiate con i dino dello shop presente su discord \"Shop-dino-e-oggetti\". Le creature verranno spawnate al livello 240 con una statistica a scelta di almeno 50 punti (viverne e draghi di roccia al livello 210, statistica 42). \n\nSe vedete solo 50 pacchetti nello Shop In-Game morite e respawnate (dovrebbero essere più di 150)"
+            "text": "Nel server sono presenti due tipologie di Shop: \n\n-SHOP IN-GAME: consultabile dal menù radiale, funzionerà con i punti che verranno assegnati automaticamente dal gioco ogni mezz'ora. Questo shop spawnerà direttamente in gioco dino a livello 200 o 165 (viverne e rock drake) con statistiche casuali. \n(I dino acquatici vanno spawnati in acqua!!) \n\n-SHOP ADMIN: Vedere canale \"Donazioni\", per ogni € donato al server verranno assegnate 100 Fragole in gioco, le quali possono essere scambiate con i dino dello shop presente su discord \"Shop-dino-e-oggetti\". Le creature verranno spawnate al livello 240 con una statistica a scelta di almeno 50 punti (viverne e draghi di roccia al livello 210, statistica 42). \n\nSe vedete solo 50 pacchetti nello Shop In-Game morite e respawnate (dovrebbero essere più di 150)"
           }
         ]
       },
@@ -112,6 +112,10 @@
       {
         "text": "Shiny",
         "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+      },
+      {
+        "text": "S-Dinos",
+        "url": "https://www.curseforge.com/ark-survival-ascended/mods/s-dino-variants"
       }
     ],
     "version": 2
